@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+https://www.credly.com/earner/earned/badge/8e182d01-7f54-4d1c-aee2-fefc4ba10c88
+
+https://www.credly.com/earner/earned/badge/c8ff7068-0ef5-4e17-a174-e328477de5f5
+
+https://www.credly.com/earner/earned/badge/1aa51b31-fe90-4113-80d6-6d6f00e9f84a
+
 <!--
 **shantanugadgil/shantanugadgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
