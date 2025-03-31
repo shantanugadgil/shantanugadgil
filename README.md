@@ -12,6 +12,10 @@ https://www.credly.com/earner/earned/badge/c8ff7068-0ef5-4e17-a174-e328477de5f5
 
 https://www.credly.com/earner/earned/badge/1aa51b31-fe90-4113-80d6-6d6f00e9f84a
 
+#### HashiCorp Core Contributor 2025
+
+https://www.credly.com/badges/692f42dc-d60d-49cc-8a26-68817883825e/public_url
+
 <!--
 **shantanugadgil/shantanugadgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
